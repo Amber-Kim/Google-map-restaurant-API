@@ -1,6 +1,6 @@
 # Google Map Travel Application 
 
-✨ Preview: https://travel-recommander.netlify.app/
+✨ Preview: https://google-travel-recommander.netlify.app/
 
 
 ## Functions
