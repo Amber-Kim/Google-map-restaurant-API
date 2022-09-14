@@ -1,5 +1,8 @@
 # Google Map Travel Application 
 
+✨ Preview: https://travel-recommander.netlify.app/
+
+
 ## Functions
 Geolocation, Google Maps API & Google Places API, fetching API data based on the location, data filtering.
 
